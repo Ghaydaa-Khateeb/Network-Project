@@ -1,0 +1,166 @@
+.container{
+	width: 90%;
+	margin: auto;
+	margin-top: 0px;
+	height: 9000px;
+	background-color: #FFF;
+	text-align: center;
+	margin-top: 0px;
+}
+.header{
+	padding-top: 0px;
+	margin-top: -25px;
+}
+.header h1{
+	padding-top: 150px;
+	width: 101.5%;
+	height: 300px;
+	color: #FFF;
+	background-image: url('./images/navbar_image.jpg');
+	text-align: center;
+	background-size: cover;
+	margin-left: -10px;
+}
+.green{
+	color : #2ecc71;
+}
+li{
+	list-style: none;
+}
+
+.navbar{
+	margin-top: -25px;
+    margin-left: -10px;
+    width: 101.5%;
+    background-color: #252F31;
+    color: #FFF;
+    overflow: hidden;
+}
+.navbar h2{padding-left: 30px; float: left}
+.navbar h2 span{color: #2ecc71;}
+.navbar ul{
+	list-style: none;
+	margin-right: 40px;
+	float: right;
+	overflow: hidden;
+}
+.navbar ul li{
+	float: left;
+	padding: 10px;
+}
+.names_ids{
+	padding-top: 5px;
+	width: 100%;
+	height: 120px;
+	background-color: #FFF;
+}
+.informationAndHobbies_1 {
+	    /* width: 100%; */
+    background-color: #EEE;
+    height: 330px;
+    padding-top: 26px;
+    margin-bottom: 30px;
+}
+.informationAndHobbies_1 .info_text{
+	float: right;
+    width: 72%;
+    overflow: hidden;
+}
+.informationAndHobbies_1 .info_text .ghaydaa_info{
+	width: 50%;
+	float: right;
+}
+.informationAndHobbies_1 .info_text .ghaydaa_info .projects{
+	width: 100%;
+}
+.informationAndHobbies_1 .info_text .ghaydaa_info .hobbies{
+	float: right;
+    float: top;
+    height: 116%;
+    margin: auto;
+    margin-top: -134px;
+    width: 124px;
+    margin-right: 500px;
+}
+.informationAndHobbies_1 .info_text .ghaydaa_info h3{
+	    margin-left: -400px;
+}
+.informationAndHobbies_1 .info_image{
+	width: 26%;
+	float: right;
+}
+.informationAndHobbies_1 .info_image img{
+    width: 288px;
+    border-radius: 50%;
+    border: solid 4px #2ecc71;
+    height: 220px;
+    margin-top: 45px;
+}
+
+
+.informationAndHobbies_2 {
+	height: 400px;
+}
+.informationAndHobbies_2 .info_text{
+	float: left;
+    width: 72%;
+    overflow: hidden;
+}
+.informationAndHobbies_2 .info_text .momen_info{
+	width: 50%;
+	float: left;
+}
+.informationAndHobbies_2 .info_text .momen_info .projects{
+	width: 300%;
+}
+.informationAndHobbies_2 .info_text .momen_info .hobbies{
+	float: left;
+    float: top;
+    height: 116%;
+    margin: auto;
+    margin-top: -134px;
+    width: 440px;
+    margin-right: 500px;
+}
+.informationAndHobbies_2 .info_text .momen_info h3{
+	    margin-left: 400px;
+}
+.informationAndHobbies_2 .info_image{
+	width: 26%;
+	float: right;
+}
+.informationAndHobbies_2 .info_image img{
+	width: 288px;
+    border-radius: 50%;
+    border: solid 4px #2ecc71;
+    height: 220px;
+    margin-top: 45px;
+}
+.ghaydaa .momen .names_ids h2{
+	margin-top: 20px;
+}
+.links{
+	background-color: #EEE;
+	height: 150px;
+	padding-top: 20px;
+}
+
+/*
+body{
+	background-color: #EEE;
+}
+.container{
+  align-content: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+	background-color: aqua;
+  
+}
+.names_ids{
+	width: 100%;
+	margin-left: 150px;
+	text-align: center;
+	background-color: #999;
+}
+*/
